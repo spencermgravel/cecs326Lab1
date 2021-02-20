@@ -10,5 +10,7 @@ In order to execute the file, in the Ubuntu Virtual Machine, after having downlo
 Virtual Machine, the following code was executed in a Terminal window in order to demonstrate this lab.
 
 cd Downloads
+
 gcc multithread.c -o  multithread -pthread
+
 ./multithread # (with the # sign representing any integer value input into that line)
